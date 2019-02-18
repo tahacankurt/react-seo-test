@@ -1,0 +1,43 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "multi ../../React Education/react-seo-test/node_modules/next/dist/client/next": 0
+    },
+    "usedIds": {
+      "0": 0
+    }
+  },
+  "chunks": {
+    "byName": {
+      "commons": 0,
+      "static/runtime/webpack.js": 1,
+      "static/ZWALJHwKBH8swGVnsUKHG/pages/MovieDetail.js": 2,
+      "static/ZWALJHwKBH8swGVnsUKHG/pages/_app.js": 3,
+      "static/ZWALJHwKBH8swGVnsUKHG/pages/_error.js": 4,
+      "static/ZWALJHwKBH8swGVnsUKHG/pages/about.js": 5,
+      "static/ZWALJHwKBH8swGVnsUKHG/pages/index.js": 6,
+      "static/runtime/main.js": 7,
+      "static/ZCYR836POK1XSq~KooObd/pages/MovieDetail.js": 8,
+      "static/ZCYR836POK1XSq~KooObd/pages/_app.js": 9,
+      "static/ZCYR836POK1XSq~KooObd/pages/_error.js": 10,
+      "static/ZCYR836POK1XSq~KooObd/pages/about.js": 11,
+      "static/ZCYR836POK1XSq~KooObd/pages/index.js": 12,
+      "static/TVMe_3bTqbWGwZgFQedmy/pages/MovieDetail.js": 2,
+      "static/TVMe_3bTqbWGwZgFQedmy/pages/_app.js": 3,
+      "static/TVMe_3bTqbWGwZgFQedmy/pages/_error.js": 4,
+      "static/TVMe_3bTqbWGwZgFQedmy/pages/about.js": 5,
+      "static/TVMe_3bTqbWGwZgFQedmy/pages/index.js": 6
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "multi private-next-pages/about.js": 0,
+      "multi private-next-pages/index.js": 1,
+      "multi private-next-pages/MovieDetail.js": 2,
+      "multi next/dist/pages/_app": 3,
+      "multi next/dist/pages/_error": 4,
+      "multi next/dist/pages/_document": 5
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5
+    }
+  },
+  "chunks": {
+    "byName": {
+      "static/ZWALJHwKBH8swGVnsUKHG/pages/MovieDetail.js": 0,
+      "static/ZWALJHwKBH8swGVnsUKHG/pages/_app.js": 1,
+      "static/ZWALJHwKBH8swGVnsUKHG/pages/_document.js": 2,
+      "static/ZWALJHwKBH8swGVnsUKHG/pages/_error.js": 3,
+      "static/ZWALJHwKBH8swGVnsUKHG/pages/about.js": 4,
+      "static/ZWALJHwKBH8swGVnsUKHG/pages/index.js": 5,
+      "static/ZCYR836POK1XSq~KooObd/pages/MovieDetail.js": 6,
+      "static/ZCYR836POK1XSq~KooObd/pages/_app.js": 7,
+      "static/ZCYR836POK1XSq~KooObd/pages/_document.js": 8,
+      "static/ZCYR836POK1XSq~KooObd/pages/_error.js": 9,
+      "static/ZCYR836POK1XSq~KooObd/pages/about.js": 10,
+      "static/ZCYR836POK1XSq~KooObd/pages/index.js": 11,
+      "static/TVMe_3bTqbWGwZgFQedmy/pages/MovieDetail.js": 0,
+      "static/TVMe_3bTqbWGwZgFQedmy/pages/_app.js": 1,
+      "static/TVMe_3bTqbWGwZgFQedmy/pages/_document.js": 2,
+      "static/TVMe_3bTqbWGwZgFQedmy/pages/_error.js": 3,
+      "static/TVMe_3bTqbWGwZgFQedmy/pages/about.js": 4,
+      "static/TVMe_3bTqbWGwZgFQedmy/pages/index.js": 5
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  }
+}
